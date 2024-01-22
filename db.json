@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": "199",
+      "comment": "hyee",
+      "date": "2022-08-02T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Orange",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": "400",
+      "comment": "costly af",
+      "date": "2022-08-03T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "appleesss",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": "123",
+      "comment": "hye",
+      "date": "2022-09-05T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": "200",
+      "comment": "stale",
+      "date": "2022-08-01T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": "3300",
+      "comment": "hye",
+      "date": "1998-12-11T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": "10000",
+      "comment": "hello",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "mobile",
+      "category": "",
+      "freshness": "",
+      "price": "",
+      "comment": "",
+      "date": "",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
